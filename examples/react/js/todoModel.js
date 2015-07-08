@@ -2,6 +2,7 @@
 /*jshint white:false */
 /*jshint trailing:false */
 /*jshint newcap:false */
+/*haimingwey: 定义app变量，如果已经定义，就使用变量，没有定义就定义为空的对象。*/
 var app = app || {};
 
 (function () {
